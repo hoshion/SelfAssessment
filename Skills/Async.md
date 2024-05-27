@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop !
+  - `try..catch` !
+  - Non-blocking !
+  - Async I/O !
+  - Thread pool !
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,14 +13,14 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions +
+  - Dead locks +
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming +
+  - Parallel programming +
   - Actor Model
-  - Thread
-  - Process
+  - Thread +
+  - Process +
 - Async contracts
   - Callbacks
   - Callback-last-error-first
