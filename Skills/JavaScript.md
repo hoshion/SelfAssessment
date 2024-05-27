@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object` t
-  - `Function` t
-  - `Boolean` t
-  - `Number` t
-  - `BigInt` t
-  - `String` t
-  - `Symbol` t
-  - `Infinity` t
-  - `NaN` t
-  - `undefined` t
-  - `null` t
-  - `this` t
-  - `instanceof` t
-  - `...spread` t
-  - `...rest` t
-  - `typeof` t
-  - Destructuring t
-  - Generators t
-  - Iterators t
-  - Async generator +
-  - Async iterator +
-  - Chaining +
-  - Optional chaining +
-  - IIFE +
-  - Async IIFE +
-  - `global` t
-  - `globalThis` +
-  - `window` +
-  - Getters and setters t
-  - `__proto__` +
-  - `prototype` +
-  - Equality operators t
-  - Logical operators t
-  - Logical Assignment t
-  - Bitwise operators t
-  - Ternary operator t
-  - `void` t
-  - `yield` t
-  - `await` t
-  - Template literal t
-  - Strict mode t 
-  - Hoisting t
-  - `delete` t
-  - `in` t
-  - `super` t
-  - `eval` t
-  - `static` t
-  - `Number.parseInt` t
-  - `Number.parseFloat` t
-  - Property descriptors +
-  - Sealing properties +
-  - Freezing properties +
-  - Computed properties +
-  - Instance class fields +
-  - Static class fields !
-  - Private class fields !
-  - Private class methods !
+  - `Object`: 📢 talked
+  - `Function`: 📢 talked
+  - `Boolean`: 📢 talked
+  - `Number`: 📢 talked
+  - `BigInt`: 📢 talked
+  - `String`: 📢 talked
+  - `Symbol`: 📢 talked
+  - `Infinity`: 📢 talked
+  - `NaN`: 📢 talked
+  - `undefined`: 📢 talked
+  - `null`: 📢 talked
+  - `this`: 📢 talked
+  - `instanceof`: 📢 talked
+  - `...spread`: 📢 talked
+  - `...rest`: 📢 talked
+  - `typeof`: 📢 talked
+  - Destructuring: 📢 talked
+  - Generators: 📢 talked
+  - Iterators: 📢 talked
+  - Async generator: 🎓 known
+  - Async iterator: 🎓 known
+  - Chaining: 🎓 known
+  - Optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - Async IIFE: 🎓 known
+  - `global`: 📢 talked
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 📢 talked
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
+  - Equality operators: 📢 talked
+  - Logical operators: 📢 talked
+  - Logical Assignment: 📢 talked
+  - Bitwise operators: 📢 talked
+  - Ternary operator: 📢 talked
+  - `void`: 📢 talked
+  - `yield`: 📢 talked
+  - `await`: 📢 talked
+  - Template literal: 📢 talked
+  - Strict mode: 📢 talked
+  - Hoisting: 📢 talked
+  - `delete`: 📢 talked
+  - `in`: 📢 talked
+  - `super`: 📢 talked
+  - `eval`: 📢 talked
+  - `static`: 📢 talked
+  - `Number.parseInt`: 📢 talked
+  - `Number.parseFloat`: 📢 talked
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🙋 explained
+  - Private class fields: 🙋 explained
+  - Private class methods: 🙋 explained
 - Statements
-  - `if` t
-  - `while` t
-  - `do..while` t
-  - `for` t
-  - `for..in` t
-  - `for..of` t
-  - `for await` t
-  - `throw` t
-  - `break` t
-  - `continue` t
-  - `import` t
-  - `export` t
-  - `label` t
-  - `try..catch` t
-  - `switch` t
-  - `class` t
-  - `extends` t
-  - `with` t
-  - `new` t
+  - `if`: 📢 talked
+  - `while`: 📢 talked
+  - `do..while`: 📢 talked
+  - `for`: 📢 talked
+  - `for..in`: 📢 talked
+  - `for..of`: 📢 talked
+  - `for await`: 📢 talked
+  - `throw`: 📢 talked
+  - `break`: 📢 talked
+  - `continue`: 📢 talked
+  - `import`: 📢 talked
+  - `export`: 📢 talked
+  - `label`: 📢 talked
+  - `try..catch`: 📢 talked
+  - `switch`: 📢 talked
+  - `class`: 📢 talked
+  - `extends`: 📢 talked
+  - `with`: 📢 talked
+  - `new`: 📢 talked
 - Functions
-  - Arrow function t
-  - Async function t
-  - Function declaration t
-  - Function expression t
-  - Default parameters t
-  - Functional object t
-  - `Function.prototype.call` t
-  - `Function.prototype.bind` t
-  - `Function.prototype.apply` t
-  - `return` t
+  - Arrow function: 📢 talked
+  - Async function: 📢 talked
+  - Function declaration: 📢 talked
+  - Function expression: 📢 talked
+  - Default parameters: 📢 talked
+  - Functional object: 📢 talked
+  - `Function.prototype.call`: 📢 talked
+  - `Function.prototype.bind`: 📢 talked
+  - `Function.prototype.apply`: 📢 talked
+  - `return`: 📢 talked
 - Data structures
-  - `Array` t
-  - `Map` t
-  - `Set` t
-  - `WeakMap` !
-  - `WeakSet` !
-  - Typed arrays !
-  - Mixins !
-  - `Object.assign` !
+  - `Array`: 📢 talked
+  - `Map`: 📢 talked
+  - `Set`: 📢 talked
+  - `WeakMap`: 🙋 explained
+  - `WeakSet`: 🙋 explained
+  - Typed arrays: 🙋 explained
+  - Mixins: 🙋 explained
+  - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
-  - `Proxy` +
-  - `RegExp` !
-  - `Date` t
-  - `Math` t
-  - `Reflect` ~
-  - `Error` +
-  - `Atomics` +
-  - `JSON` +
-  - `WeakRef` +
-  - `FinalizationRegistry` t
-  - `Intl` +
-  - `Promise` t
-  - `console` t
-  - Timers +
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🙋 explained
+  - `Date`: 📢 talked
+  - `Math`: 📢 talked
+  - `Reflect`: 👂 heard
+  - `Error`: 🎓 known
+  - `Atomics`: 🎓 known
+  - `JSON`: 🎓 known
+  - `WeakRef`: 🎓 known
+  - `FinalizationRegistry`: 📢 talked
+  - `Intl`: 🎓 known
+  - `Promise`: 📢 talked
+  - `console`: 📢 talked
+  - Timers: 🎓 known
 - Infrastructure
-  - V8 ~
-  - Node.js t
-  - npm t
-  - prettier !
-  - MDN !
-  - TC39 ~
+  - V8: 👂 heard
+  - Node.js: 📢 talked
+  - npm: 📢 talked
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
+  - TC39: 👂 heard

@@ -2,93 +2,93 @@
 
 - Application structure
   - Modularity
-  - Components ~
-  - Directories ~
-  - GRASP * 
-  - SOLID *
-  - GoF patterns +
-  - CQS +
-  - Leaking abstractions +
-  - Multiparadigm code *
-  - Contract programming +
-  - Platform-agnostic *
-  - Transport-agnostic 
-  - Framework-agnostic *
-  - Code coverage !
-  - Cohesion +
-  - Coupling +
-  -  Cyclomatic complexity !
-  - Reliability *
-  - Quality !
-  - Availability !
-  - Flexibility !
+  - Components: 👂 heard
+  - Directories: 👂 heard
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🎓 known
+  - CQS: 🎓 known
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic
+  - Framework-agnostic: 🖐️ used
+  - Code coverage: 🙋 explained
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 🙋 explained
+  - Reliability: 🖐️ used
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer !
-  - Domain-specific language (DSL) !
-  - System vs applied code !
-  - Multilayer approach !
-  - Hexagonal architecture !
-  - Separation of concerns (SoC) !
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🙋 explained
+  - Hexagonal architecture: 🙋 explained
+  - Separation of concerns (SoC): 🙋 explained
   - Metaprogramming
-  - Inversion of control (IoC) !
-  - Dependency injection (DI) !
-  - Clean architecture !
-  - Domain-driven design (DDD) !
-  - Pub/sub !
-  - Message brocker +
-  - Agent ~
-  - Service locator 
-  - Message Queue (MQ) +
-  - CQRS +
-  - Event sourcing +
-  - E-R data modeling !
-  - Entity-relationship diagram !
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD): 🙋 explained
+  - Pub/sub: 🙋 explained
+  - Message brocker: 🎓 known
+  - Agent: 👂 heard
+  - Service locator
+  - Message Queue (MQ): 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🎓 known
+  - E-R data modeling: 🙋 explained
+  - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML +
-  - Work breakdown structure +
-  - Budget estimation +
-  - Distributed systems + 
-  - High-intensive computing +
-  - Load balancing +
-  - Gateways +
+  - UML: 🎓 known
+  - Work breakdown structure: 🎓 known
+  - Budget estimation: 🎓 known
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
-  - SaaS +
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless +
+  - Serverless: 🎓 known
   - Vendor lock-in
-  - Bus factor +
+  - Bus factor: 🎓 known
 - Solution architecture
-  - A software requirements specification (SRS) +
-  - Solution visions +
-  - Solution capabilities +
-  - System design +
-  - Process modelling +
-  - Data modelling +
-  - Solution components +
-  - Risk assessment +
-  - Non Functional Requirements (NFR) +
-  - Clouds +
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 🎓 known
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code +
-  - No-code +
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID +
+  - ACID: 🎓 known
   - CAP theorem
-  - Single source of truth (SSOT) +
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs *
-  - Enterprise strategy * 
-  - Integration with subsystems *
-  - Enterprise vision *
-  - Enterprise capabilities *
-  - Project scope *
-  - Enterprise service bus *
-  - Service-oriented architecture *
-  - Microservices *
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 🖐️ used
+  - Integration with subsystems: 🖐️ used
+  - Enterprise vision: 🖐️ used
+  - Enterprise capabilities: 🖐️ used
+  - Project scope: 🖐️ used
+  - Enterprise service bus: 🖐️ used
+  - Service-oriented architecture: 🖐️ used
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
